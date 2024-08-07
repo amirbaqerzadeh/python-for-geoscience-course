@@ -1,0 +1,1 @@
+go to "leecode" and do https://leetcode.com/studyplan/introduction-to-pandas/ exercises (you need to use vpn)
