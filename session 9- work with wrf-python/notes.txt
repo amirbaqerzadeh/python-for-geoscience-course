@@ -1,3 +1,6 @@
+download wrf-data here:
+https://drive.google.com/file/d/1rY6WniHal4OE3HNs03QGB5EG8tp8Uxqk/view?usp=sharing
+
 what is the WRF:
 https://www2.mmm.ucar.edu/wrf/OnLineTutorial/
 
